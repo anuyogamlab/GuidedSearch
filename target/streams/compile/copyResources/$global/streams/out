@@ -1,0 +1,7 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/anuyogamslalom1/microservice/play-java-rest-api-example-2.5.x/conf/posts.routes,/home/anuyogamslalom1/microservice/play-java-rest-api-example-2.5.x/target/scala-2.11/classes/posts.routes)[0m
+[0m[[0mdebug[0m] [0m	(/home/anuyogamslalom1/microservice/play-java-rest-api-example-2.5.x/conf/application.conf,/home/anuyogamslalom1/microservice/play-java-rest-api-example-2.5.x/target/scala-2.11/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/home/anuyogamslalom1/microservice/play-java-rest-api-example-2.5.x/conf/META-INF,/home/anuyogamslalom1/microservice/play-java-rest-api-example-2.5.x/target/scala-2.11/classes/META-INF)[0m
+[0m[[0mdebug[0m] [0m	(/home/anuyogamslalom1/microservice/play-java-rest-api-example-2.5.x/conf/logback.xml,/home/anuyogamslalom1/microservice/play-java-rest-api-example-2.5.x/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/home/anuyogamslalom1/microservice/play-java-rest-api-example-2.5.x/conf/routes,/home/anuyogamslalom1/microservice/play-java-rest-api-example-2.5.x/target/scala-2.11/classes/routes)[0m
+[0m[[0mdebug[0m] [0m	(/home/anuyogamslalom1/microservice/play-java-rest-api-example-2.5.x/conf/META-INF/persistence.xml,/home/anuyogamslalom1/microservice/play-java-rest-api-example-2.5.x/target/scala-2.11/classes/META-INF/persistence.xml)[0m

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="97370759-9338-4ca6-9206-2a8092e0629b" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="20yvrUZlR1tjDH96hzzKTNojcvM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/com/google/strategic/demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/com/google/strategic/demo/views" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/com/google/strategic/demo/views" />
+      <recent name="C:\Users\anu.venkataraman\Downloads\play-java-rest-api-example-2.5.x\play-java-rest-api-example-2.5.x\app\models\dialogflow" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="SbtRunConfiguration" factoryName="sbt Task" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="tasks" value="api" />
+      <option name="useSbtShell" value="true" />
+      <option name="vmparams" value="-Xms512M -Xmx1024M -Xss1M -XX:+CMSClassUnloadingEnabled" />
+      <option name="workingDir" value="$PROJECT_DIR$" />
+      <envs>
+        <env name="GOOGLE_APPLICATION_CREDENTIALS" value="C:\Users\anu.venkataraman\OneDrive - Slalom\Dialogflow\dialogflowtest1.json" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="api" type="SbtRunConfiguration" factoryName="sbt Task" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="tasks" value="run" />
+      <option name="useSbtShell" value="true" />
+      <option name="vmparams" value="-Xms512M -Xmx1024M -Xss1M -XX:+CMSClassUnloadingEnabled" />
+      <option name="workingDir" value="$PROJECT_DIR$" />
+      <envs>
+        <env name="GOOGLE_APPLICATION_CREDENTIALS" value="C:\Users\anu.venkataraman\OneDrive - Slalom\Dialogflow\ces-pilot-integ.json" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="play-java-rest-api-example" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="root [file:/home/anuyogam/codingartifacts/microservice/play-java-rest-api-supporthub/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="play-java-rest-api-example-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="3171405604" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2920355924" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="3845159171" />
+        <entry key="$PROJECT_DIR$/project/scaffold.sbt" value="967415667" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Documents/play-java-rest-api-example-2.5.x" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/play-java-starter-example" value="PREVIEW" />
+        <entry key="$USER_HOME$/OneDrive - Slalom/code/unifiedapi" value="PREVIEW" />
+        <entry key="$USER_HOME$/OneDrive - Slalom/play-java-starter-example" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97370759-9338-4ca6-9206-2a8092e0629b" name="Default" comment="" />
+      <created>1530707862662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530707862662</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="546" y="0" width="1329" height="794" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1637425790057">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="546" y="0" width="1329" height="794" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1637425790057" />
+    <state x="870" y="371" width="811" height="712" key="FileChooserDialogImpl" timestamp="1637429984927">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="453" y="229" width="426" height="456" key="FileChooserDialogImpl/0.0.1333.888@0.0.1333.888" timestamp="1637192919811" />
+    <state x="870" y="371" width="811" height="712" key="FileChooserDialogImpl/0.0.2560.1440@0.0.2560.1440" timestamp="1637429984927" />
+    <state x="1048" y="507" width="434" height="328" key="chooseDestDirectoryDialog" timestamp="1637429890792">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1048" y="507" width="434" height="328" key="chooseDestDirectoryDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1637429890792" />
+  </component>
+</project>

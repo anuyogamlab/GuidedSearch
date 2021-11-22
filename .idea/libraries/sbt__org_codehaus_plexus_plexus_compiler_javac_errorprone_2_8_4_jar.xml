@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.codehaus.plexus:plexus-compiler-javac-errorprone:2.8.4:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.codehaus.plexus/plexus-compiler-javac-errorprone/jars/plexus-compiler-javac-errorprone-2.8.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.codehaus.plexus/plexus-compiler-javac-errorprone/srcs/plexus-compiler-javac-errorprone-2.8.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,3 @@
+GET     /extract                    com.google.strategic.demo.controllers.HomeController.db
+GET     /                           com.google.strategic.demo.controllers.HomeController.index
+->     /v1/posts                    posts.Routes

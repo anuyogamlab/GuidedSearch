@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.google.errorprone:javac:9+181-r4173-1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.google.errorprone/javac/jars/javac-9+181-r4173-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.google.errorprone/javac/srcs/javac-9+181-r4173-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
