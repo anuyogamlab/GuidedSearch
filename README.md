@@ -1,18 +1,14 @@
-<<<<<<< HEAD
-# guidedsearch
-Guided Search Microservice using Play Framework and Dialogflow
-=======
-# Search Bot Microservice using Dialogflow SDK
+
+# Guided Search Microservice using Dialogflow SDK
 
 The goal of this project is to build an Artificial Intelligence (AI) powered Search bot capability, that leverages Natural Language Understanding (NLU) to provide self-service to end users (typically consumers).
 
-This has integrated several technologies:
-
+This interacts with the following integration:
 Google Cloud SQL (to store back end data that will give the results for search request)
 DialogFlow
 Play Framework
 
-# play-java-rest-api-example
+## play-java-rest-api-example
 
 A REST API showing Play with a JPA backend.  For the Scala version, please see https://github.com/playframework/play-scala-rest-api-example
 
