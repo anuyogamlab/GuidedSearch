@@ -19,4 +19,3 @@ then you can see that when calling out to a blocking API like JDBC, you should p
 
 
 There is more detail in https://www.playframework.com/documentation/latest/ThreadPools -- notably, you can always bump up the number of threads in the rendering thread pool rather than do this -- but it gives you an idea of best practices.
->>>>>>> first commit
