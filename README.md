@@ -15,10 +15,10 @@ This project has following component:
 
 3) Actions (index) fill the gap between the HTTP world and Dialogflow. Action “index” maps Dialogflow to an HTTP endpoint
 
-# File conf/routes:
-GET     /search                     controllers.HomeController.index
-GET     /extract                    controllers.HomeController.db
-GET     /availability               controllers.HomeController.availability
+# File conf/routes: </BR>
+GET     /search                     controllers.HomeController.index </BR>
+GET     /extract                    controllers.HomeController.db </BR>
+GET     /availability               controllers.HomeController.availability </BR>
 
 # Please Note
 1) When setting up the project in IDE, set the environment variable. GOOGLE_APPLICATION_CREDENTIALS to the path of the service account file.
